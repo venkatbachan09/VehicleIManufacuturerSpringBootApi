@@ -28,20 +28,18 @@ This api interacting with external apis and get the the vehicles details based o
   ## STEP6: 
   Clone the angular7-spring-boot application at https://github.com/venkatbachan09/VehicleManufactureDetails.git
   
-  ## STEP7: 
-  install the nodejs
-  
-  ## STEP7: 
+  ## Prerequisites: 
+  install the nodejs 
   git ignore the npm modules so, once we open the souce code into the any IDE like VSCODE, install the npm modules using 
   npm i or yarn add
   
-  ## STEP8: 
+  ## STEP7: 
   Using ng serve run the application 
   
-  ## STEP9: 
+  ## STEP8: 
   Once application up, we can see the all manufacturer details along with vehciles types and one Get Vehicle Types button
   
-  ## STEP10: 
+  ## STEP9: 
   Once we select the specific manufacturer, we can see vehicle types manufactured by specific manufacture.
 
 Thanks
